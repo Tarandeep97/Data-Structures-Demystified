@@ -1,4 +1,4 @@
-// Insert node at the tail of Linke List
+// Insert node at the tail of Linked List
 
 SinglyLinkedListNode* insertNodeAtTail(SinglyLinkedListNode* head, int data) {
     SinglyLinkedListNode* temp = new SinglyLinkedListNode(data);
