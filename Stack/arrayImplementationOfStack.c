@@ -25,6 +25,11 @@ void TOP(){
 	return;
 }
 
+bool isEmpty(){
+	if (top==-1) return true;
+	else return false;
+}
+
 void print(){
 	printf("Stack now is: ");
 	for(int i=0;i<=top;i++){
