@@ -12,7 +12,7 @@ Objective of this repository to provide source code for various problems related
 * [Merge two sorted linked lists](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/mergeSortedLL.cpp)
 * [Compare two linked lists](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/compareLL.cpp)
 * [Get Node Value](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/getNodeValue.cpp)
-* [Doubly LinkedList- Print,reversePrint, Inserting Node at head](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/doublyLL.c)
+* [Doubly LinkedList- Print, reversePrint, Inserting Node at head](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/doublyLL.c)
 
 To be continued..
 
