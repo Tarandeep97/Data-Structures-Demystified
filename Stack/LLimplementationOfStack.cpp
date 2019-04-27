@@ -51,3 +51,14 @@ int main(){
 	printf("Top of Stack is %d",TOP());
 		
 }
+
+/*
+Output:
+Stack now is: 10
+Stack now is: 4 10
+Stack now is: 10
+Stack now is: 3 10
+Stack now is: 5 3 10
+Stack now is: 2 5 3 10
+Top of Stack is 2
+*/
