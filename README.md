@@ -14,5 +14,9 @@ Objective of this repository to provide source code for various problems related
 * [Get Node Value](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/getNodeValue.cpp)
 * [Doubly LinkedList- Print, reversePrint, Inserting Node at head](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/LinkedList/doublyLL.c)
 
-To be continued..
+### Stack
+* [Array Implementation](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/Stack/arrayImplementationOfStack.c)
+* [LinkedList Implementation](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/Stack/LLimplementationOfStack.cpp)
+
+To be continued...
 
