@@ -17,6 +17,7 @@ Objective of this repository to provide source code for various problems related
 ### Stack
 * [Array Implementation](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/Stack/arrayImplementationOfStack.c)
 * [LinkedList Implementation](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/Stack/LLimplementationOfStack.cpp)
+* [Reversal of String](https://github.com/Tarandeep97/Data-Structures-Demystified/blob/master/Stack/ReversalOfString.cpp)
 
 To be continued...
 
