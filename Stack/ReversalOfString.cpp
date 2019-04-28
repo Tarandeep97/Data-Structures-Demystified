@@ -21,3 +21,7 @@ int main(){
 	Reverse(C,strlen(C));
 	cout<<endl<<"Output string is: "<<C;
 }
+/*
+Enter a string: HELLO
+Output string is: OLLEH
+*/
