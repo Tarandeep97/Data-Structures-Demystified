@@ -1,5 +1,5 @@
 # Data-Structures-Demystified
-Objective of this repository to provide source code for various problems related to Data Structures.
+Objective of this repository is to provide source code for various problems related to Data Structures.
 ***
 ### Linked List
 
