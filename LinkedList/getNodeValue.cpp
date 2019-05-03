@@ -1,4 +1,4 @@
-//Getting Node value from a tail
+//Getting Node value from tail
 /* Approach : To get the nth node from the tail of the linked list, we can calculate the length of the 
 entire list by traversing the list once. Let this length be l. nth node from the tail is the (l-n-1)th
 node from the start (everything is 0-based) Or we can use two pointers. We can increment one of these
